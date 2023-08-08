@@ -104,5 +104,12 @@
 
 //echo rand(0, 100);
 
-echo "Hello world";
+// define("GREETING", "Hello");
+// echo GREETING;
+
+// define("PI", 3.14);
+// echo PI;
+
+
+
 ?>
