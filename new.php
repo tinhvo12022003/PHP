@@ -104,5 +104,5 @@
 
 //echo rand(0, 100);
 
-
+echo "Hello world";
 ?>
