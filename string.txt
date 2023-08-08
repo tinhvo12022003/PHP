@@ -1,0 +1,26 @@
+str_replace(word, new_word, str) -> thay thế 
+
+strlen(str) -> độ dài của chuỗi
+
+strpos(str, word) -> vị trí đầu tiên của từ đó
+
+strrev(str) -> đảo ngược chuỗi
+
+str_word_count(str) -> số lượng từ trong chuỗi
+
+strtolower(str) -> chuyển đổi chuỗi thành chữ thường
+
+strtoupper(str) -> chuyển đổi chuỗi thành chữ hoa
+
+substr(str, start, length) -> trích xuất 1 phần của chuỗi từ vị trí start đến vị trí start + length
+
+trim(str) -> loại bỏ khoảng trắng ở đầu và cuối chuỗi
+
+strtr(str, array) trong PHP được sử dụng để thực hiện việc thay thế các ký tự hoặc chuỗi trong một chuỗi khác dựa trên bảng tương ứng. 
+
+strchr(str_src, str/words, bool) -> trả về chuỗi con từ vị trí tìm thấy, trả về đầu đến word nếu bool = true, ngược loại
+
+strcmp(str1, str2): int -> trả về 1 số nguyên khi so sánh độ dài 2 chuỗi
+
+strspn(str, check_str): int -> trả về độ dài của phần tử tiếp xúc đầu tiên
+
