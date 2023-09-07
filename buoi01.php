@@ -93,5 +93,21 @@ echo $n . "\n"; //10.5
 echo (int)$n; //10
 
 
+//phạm vi của biến
+//global scope
+
+/*
+sử dụng từ khóa global
+*/
+
+$a = 10;
+function print_val(){
+    global $a;
+    echo $a; //output 10
+}
+
+//local scope
+//static scope, giá trị của nó được giữ lại trong các lần gọi hàm
+
 
 ?>
